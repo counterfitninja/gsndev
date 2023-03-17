@@ -3,12 +3,34 @@
     <title>GSN Development</title>
     <link href="https://counterfitninja.github.io/gsndev/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/gsndev" />
-    <updated>2023-03-17T14:26:47+00:00</updated>
+    <updated>2023-03-17T14:41:40+00:00</updated>
     <author>
         <name>Nick Carter</name>
     </author>
     <id>https://counterfitninja.github.io/gsndev</id>
 
+    <entry>
+        <title>Testimonials</title>
+        <author>
+            <name>Nick Carter</name>
+        </author>
+        <link href="https://counterfitninja.github.io/gsndev/testimonials.html"/>
+        <id>https://counterfitninja.github.io/gsndev/testimonials.html</id>
+
+        <updated>2023-03-17T14:39:13+00:00</updated>
+            <summary>
+                <![CDATA[
+                    "Nick and his team have great throughout the entire process from quoting right through the build where nothing was too much trouble. Even at the end where there were a few snagging issues they were sorted out with a smile and pride in a job&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-right"><em>"Nick and his team have great throughout the entire process from quoting right through the build where nothing was too much trouble. Even at the end where there were a few snagging issues they were sorted out with a smile and pride in a job well done"<br></em>- Saskia</p>
+<hr>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Projects</title>
         <author>
@@ -17,14 +39,22 @@
         <link href="https://counterfitninja.github.io/gsndev/projects.html"/>
         <id>https://counterfitninja.github.io/gsndev/projects.html</id>
 
-        <updated>2023-03-17T14:06:04+00:00</updated>
-            <summary></summary>
+        <updated>2023-03-17T14:41:40+00:00</updated>
+            <summary>
+                <![CDATA[
+                    Small double office with storage seperator. Total footprint 5mx2.5m
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230308_172713552.jpg" data-size="4080x3072"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230308_172713552-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
-<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230309_165159887.jpg" data-size="4080x3072"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230309_165159887-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+                <p>Small double office with storage seperator. Total footprint 5mx2.5m</p>
+<div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="4">
+<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143015994.jpg" data-size="4080x3072"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143015994-thumbnail.jpg" alt="" width="720" height="542"></a></figure>
+<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143105673-2.jpg" data-size="3072x4080"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143105673-2-thumbnail.jpg" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143126536-2.jpg" data-size="3072x4080"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143126536-2-thumbnail.jpg" alt="" width="720" height="956"></a></figure>
+<figure class="gallery__item"><a href="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143037394-2.jpg" data-size="3072x4080"><img loading="lazy" src="https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230317_143037394-2-thumbnail.jpg" alt="" width="720" height="956"></a></figure>
 </div></div>
+<p> </p>
             ]]>
         </content>
     </entry>
