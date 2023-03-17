@@ -10,18 +10,46 @@
     },
     "items": [
         {
+            "id": "https://counterfitninja.github.io/gsndev/projects.html",
+            "url": "https://counterfitninja.github.io/gsndev/projects.html",
+            "title": "Projects",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230308_172713552.jpg\" data-size=\"4080x3072\"><img loading=\"lazy\" src=\"https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230308_172713552-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230309_165159887.jpg\" data-size=\"4080x3072\"><img loading=\"lazy\" src=\"https://counterfitninja.github.io/gsndev/media/posts/3/gallery/PXL_20230309_165159887-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"542\"></a></figure>\n</div></div>",
+            "author": {
+                "name": "Nick Carter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-17T14:04:04+00:00",
+            "date_modified": "2023-03-17T14:06:04+00:00"
+        },
+        {
+            "id": "https://counterfitninja.github.io/gsndev/about-us.html",
+            "url": "https://counterfitninja.github.io/gsndev/about-us.html",
+            "title": "About us",
+            "summary": "- Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials. Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that&hellip;",
+            "content_html": "<p>- Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials.</p>\n<p>Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that we’re here to help and advise at every stage of the development process.</p>\n<p>A business that puts quality, aesthetics and client satisfaction first. </p>\n<p> </p>",
+            "author": {
+                "name": "Nick Carter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-17T13:55:16+00:00",
+            "date_modified": "2023-03-17T13:55:16+00:00"
+        },
+        {
             "id": "https://counterfitninja.github.io/gsndev/gsn-developments.html",
             "url": "https://counterfitninja.github.io/gsndev/gsn-developments.html",
             "title": "GSN DEVELOPMENTS",
-            "summary": "This is the text on the page",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://counterfitninja.github.io/gsndev/media/posts/1/Picture1.png\" height=\"273\" width=\"1452\" alt=\"\"  sizes=\"100vw\" srcset=\"https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-xs.png 300w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-sm.png 480w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-md.png 768w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-lg.png 1024w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-xl.png 1360w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    This is the text on the page\n  </p>",
+            "summary": "Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials. #Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that&hellip;",
+            "content_html": "\n  <p>\n    Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials.\n  </p>\n\n  <p>\n    #Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that we’re here to help and advise at every stage of the development process.\n  </p>\n\n  <p>\n    A business that puts quality, aesthetics and client satisfaction first.&nbsp;&nbsp;<br>\n  </p>",
+            "image": "https://counterfitninja.github.io/gsndev/media/posts/1/ferndownkitchen-1920w.webp",
             "author": {
                 "name": "Nick Carter"
             },
             "tags": [
             ],
             "date_published": "2023-03-17T13:27:15+00:00",
-            "date_modified": "2023-03-17T13:44:53+00:00"
+            "date_modified": "2023-03-17T14:03:52+00:00"
         }
     ]
 }
