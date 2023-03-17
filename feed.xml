@@ -3,7 +3,7 @@
     <title>GSN Development</title>
     <link href="https://counterfitninja.github.io/gsndev/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/gsndev" />
-    <updated>2023-03-17T14:25:05+00:00</updated>
+    <updated>2023-03-17T14:26:47+00:00</updated>
     <author>
         <name>Nick Carter</name>
     </author>
@@ -36,10 +36,10 @@
         <link href="https://counterfitninja.github.io/gsndev/about-us.html"/>
         <id>https://counterfitninja.github.io/gsndev/about-us.html</id>
 
-        <updated>2023-03-17T14:25:05+00:00</updated>
+        <updated>2023-03-17T14:26:47+00:00</updated>
             <summary>
                 <![CDATA[
-                    07824448590 Business Hours Mon - Fri 9:00 am - 5:00 pm Saturday Appointment only Sunday Closed Address 38 Hillbourne Close, Warminster, Wilts
+                    07824448590 Business Hours Mon - Fri 9:00 am - 5:00 pm Saturday Appointment only Sunday Closed Address 38 Hillbourne Close, Warminster, Wilts Email Us
                 ]]>
             </summary>
         <content type="html">
@@ -53,6 +53,8 @@
 </div>
 <h3 id="1360420964" class="u_1360420964 dmNewParagraph" data-element-type="paragraph">Address</h3>
 <div id="1339738034" class="u_1339738034 dmNewParagraph" data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJjb250ZW50X2xpYnJhcnkuZ2xvYmFsIn1d" data-diy-text="">38 Hillbourne Close, Warminster, Wilts</div>
+<div data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJjb250ZW50X2xpYnJhcnkuZ2xvYmFsIn1d" data-diy-text=""> </div>
+<div data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJjb250ZW50X2xpYnJhcnkuZ2xvYmFsIn1d" data-diy-text=""><a href="mailto:nick@gsndevelopments.co.uk" target="_blank" rel="noopener noreferrer">Email Us</a></div>
             ]]>
         </content>
     </entry>
