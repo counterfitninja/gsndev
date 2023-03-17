@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://counterfitninja.github.io/gsndev/services.html",
+            "url": "https://counterfitninja.github.io/gsndev/services.html",
+            "title": "Services",
+            "summary": "We offer a range of services not limited too: New builds Extension’s. Structral alterations. Loft conversions. Renovation’s. Kitchen and bathroom installation’s. Specialist in timber framing and Traditional cut roofing.",
+            "content_html": "<p>We offer a range of services not limited too:</p>\n<p>New builds<br>Extension’s.<br>Structral alterations.<br>Loft conversions.<br>Renovation’s.<br>Kitchen and bathroom installation’s.<br>Specialist in timber framing and Traditional cut roofing.</p>",
+            "author": {
+                "name": "Nick Carter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-17T14:48:17+00:00",
+            "date_modified": "2023-03-17T14:48:17+00:00"
+        },
+        {
             "id": "https://counterfitninja.github.io/gsndev/testimonials.html",
             "url": "https://counterfitninja.github.io/gsndev/testimonials.html",
             "title": "Testimonials",

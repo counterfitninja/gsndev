@@ -3,12 +3,33 @@
     <title>GSN Development</title>
     <link href="https://counterfitninja.github.io/gsndev/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/gsndev" />
-    <updated>2023-03-17T14:41:40+00:00</updated>
+    <updated>2023-03-17T14:48:17+00:00</updated>
     <author>
         <name>Nick Carter</name>
     </author>
     <id>https://counterfitninja.github.io/gsndev</id>
 
+    <entry>
+        <title>Services</title>
+        <author>
+            <name>Nick Carter</name>
+        </author>
+        <link href="https://counterfitninja.github.io/gsndev/services.html"/>
+        <id>https://counterfitninja.github.io/gsndev/services.html</id>
+
+        <updated>2023-03-17T14:48:17+00:00</updated>
+            <summary>
+                <![CDATA[
+                    We offer a range of services not limited too: New builds Extension’s. Structral alterations. Loft conversions. Renovation’s. Kitchen and bathroom installation’s. Specialist in timber framing and Traditional cut roofing.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>We offer a range of services not limited too:</p>
+<p>New builds<br>Extension’s.<br>Structral alterations.<br>Loft conversions.<br>Renovation’s.<br>Kitchen and bathroom installation’s.<br>Specialist in timber framing and Traditional cut roofing.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Testimonials</title>
         <author>
