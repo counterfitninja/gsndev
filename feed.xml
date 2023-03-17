@@ -3,7 +3,7 @@
     <title>GSN Development</title>
     <link href="https://github.com/counterfitninja/gsndev/feed.xml" rel="self" />
     <link href="https://github.com/counterfitninja/gsndev" />
-    <updated>2023-03-17T13:42:14+00:00</updated>
+    <updated>2023-03-17T13:44:53+00:00</updated>
     <author>
         <name>Nick Carter</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://github.com/counterfitninja/gsndev/gsn-developments.html"/>
         <id>https://github.com/counterfitninja/gsndev/gsn-developments.html</id>
 
-        <updated>2023-03-17T13:42:14+00:00</updated>
+        <updated>2023-03-17T13:44:53+00:00</updated>
             <summary>
                 <![CDATA[
                     This is the text on the page
@@ -27,7 +27,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://github.com/counterfitninja/gsndev/media/posts/1/ferndownkitchen-1920w.webp" height="1440" width="1920" alt=""  sizes="100vw" srcset="https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-xs.webp 300w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-sm.webp 480w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-md.webp 768w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-lg.webp 1024w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-xl.webp 1360w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-2xl.webp 1600w">
+      <img loading="lazy" src="https://github.com/counterfitninja/gsndev/media/posts/1/Picture1.png" height="273" width="1452" alt=""  sizes="100vw" srcset="https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-xs.png 300w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-sm.png 480w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-md.png 768w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-lg.png 1024w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-xl.png 1360w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-2xl.png 1600w">
       
     </figure>
 
