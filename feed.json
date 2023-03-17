@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "GSN Development",
+    "description": "",
+    "home_page_url": "https://github.com/counterfitninja/gsndev",
+    "feed_url": "https://github.com/counterfitninja/gsndev/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Nick Carter"
+    },
+    "items": [
+        {
+            "id": "https://github.com/counterfitninja/gsndev/gsn-developments.html",
+            "url": "https://github.com/counterfitninja/gsndev/gsn-developments.html",
+            "title": "GSN DEVELOPMENTS",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://github.com/counterfitninja/gsndev/media/posts/1/ferndownkitchen-1920w.webp\" height=\"1440\" width=\"1920\" alt=\"\"  sizes=\"100vw\" srcset=\"https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-xs.webp 300w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-sm.webp 480w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-md.webp 768w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-lg.webp 1024w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-xl.webp 1360w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/ferndownkitchen-1920w-2xl.webp 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "Nick Carter"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-03-17T13:27:15+00:00",
+            "date_modified": "2023-03-17T13:27:15+00:00"
+        }
+    ]
+}
