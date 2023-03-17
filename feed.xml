@@ -3,7 +3,7 @@
     <title>GSN Development</title>
     <link href="https://counterfitninja.github.io/gsndev/feed.xml" rel="self" />
     <link href="https://counterfitninja.github.io/gsndev" />
-    <updated>2023-03-17T14:06:04+00:00</updated>
+    <updated>2023-03-17T14:25:05+00:00</updated>
     <author>
         <name>Nick Carter</name>
     </author>
@@ -36,18 +36,23 @@
         <link href="https://counterfitninja.github.io/gsndev/about-us.html"/>
         <id>https://counterfitninja.github.io/gsndev/about-us.html</id>
 
-        <updated>2023-03-17T13:55:16+00:00</updated>
+        <updated>2023-03-17T14:25:05+00:00</updated>
             <summary>
                 <![CDATA[
-                    - Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials. Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that&hellip;
+                    07824448590 Business Hours Mon - Fri 9:00 am - 5:00 pm Saturday Appointment only Sunday Closed Address 38 Hillbourne Close, Warminster, Wilts
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>- Our professional team of specialists have a wealth of experience and knowledge, and we’re dedicated to building strong client relationships and sourcing good quality materials.</p>
-<p>Crucially, we fully appreciate that property is a serious investment and a major commitment, so you can rest assured that we’re here to help and advise at every stage of the development process.</p>
-<p>A business that puts quality, aesthetics and client satisfaction first. </p>
-<p> </p>
+                <div id="1428698740" class="u_1428698740 default dmHoursOfOperation" data-element-type="open_hours" data-widget-type="hoursOfOperation">
+<h3>07824448590</h3>
+<h3 class="dmwidget-title ">Business Hours</h3>
+<div class="open-hours-item">Mon - Fri   <time>9:00 am</time> - <time>5:00 pm</time></div>
+<div class="open-hours-item">Saturday   Appointment only</div>
+<div class="open-hours-item">Sunday     Closed</div>
+</div>
+<h3 id="1360420964" class="u_1360420964 dmNewParagraph" data-element-type="paragraph">Address</h3>
+<div id="1339738034" class="u_1339738034 dmNewParagraph" data-binding="W3siYmluZGluZ05hbWUiOiJ0ZXh0IiwidmFsdWUiOiJjb250ZW50X2xpYnJhcnkuZ2xvYmFsIn1d" data-diy-text="">38 Hillbourne Close, Warminster, Wilts</div>
             ]]>
         </content>
     </entry>
