@@ -2,19 +2,19 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "GSN Development",
     "description": "",
-    "home_page_url": "https://github.com/counterfitninja/gsndev",
-    "feed_url": "https://github.com/counterfitninja/gsndev/feed.json",
+    "home_page_url": "https://counterfitninja.github.io/gsndev",
+    "feed_url": "https://counterfitninja.github.io/gsndev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Nick Carter"
     },
     "items": [
         {
-            "id": "https://github.com/counterfitninja/gsndev/gsn-developments.html",
-            "url": "https://github.com/counterfitninja/gsndev/gsn-developments.html",
+            "id": "https://counterfitninja.github.io/gsndev/gsn-developments.html",
+            "url": "https://counterfitninja.github.io/gsndev/gsn-developments.html",
             "title": "GSN DEVELOPMENTS",
             "summary": "This is the text on the page",
-            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://github.com/counterfitninja/gsndev/media/posts/1/Picture1.png\" height=\"273\" width=\"1452\" alt=\"\"  sizes=\"100vw\" srcset=\"https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-xs.png 300w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-sm.png 480w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-md.png 768w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-lg.png 1024w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-xl.png 1360w ,https://github.com/counterfitninja/gsndev/media/posts/1/responsive/Picture1-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    This is the text on the page\n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://counterfitninja.github.io/gsndev/media/posts/1/Picture1.png\" height=\"273\" width=\"1452\" alt=\"\"  sizes=\"100vw\" srcset=\"https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-xs.png 300w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-sm.png 480w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-md.png 768w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-lg.png 1024w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-xl.png 1360w ,https://counterfitninja.github.io/gsndev/media/posts/1/responsive/Picture1-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    This is the text on the page\n  </p>",
             "author": {
                 "name": "Nick Carter"
             },
