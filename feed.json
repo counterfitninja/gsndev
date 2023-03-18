@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "GSN Development",
+    "title": "GSN Development’s",
     "description": "",
     "home_page_url": "https://www.gsndevelopments.co.uk",
     "feed_url": "https://www.gsndevelopments.co.uk/feed.json",
@@ -78,7 +78,7 @@
             "tags": [
             ],
             "date_published": "2023-03-17T13:27:15+00:00",
-            "date_modified": "2023-03-18T10:39:32+00:00"
+            "date_modified": "2023-03-18T10:42:02+00:00"
         }
     ]
 }
